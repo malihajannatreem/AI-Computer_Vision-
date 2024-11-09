@@ -1,0 +1,8 @@
+
+This is the Corel5K image collection, which contains a total of 5,000 images collected by Corel Corporation, hence the name: Corel5K. 
+
+The Corel Image Library consists of 50 categories of images, such as buses, dinosaurs, beaches, etc., with each category containing 100 equal-sized images. 
+
+The names of test images are listed in corel5k_test_list, while the names of the training images are listed in corel5k_train_list. 
+
+Note: Image category labels are not provided, as each class of image is placed in a separate folder. You can set your own category labels by assigning the same label to images in the same folder. For example, if there are 50 subfolders, you can assign labels 1, 2, 3, ..., 50 accordingly.
